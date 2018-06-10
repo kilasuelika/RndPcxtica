@@ -1,2 +1,2 @@
-# RndPcxtica: A Mathematica Package for Fitting Random Processes
+# RndPcxtica: A Mathematica Toolbox for Stochastic Analysis 
 
